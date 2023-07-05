@@ -3,11 +3,11 @@ module github.com/googleapis/gax-go
 go 1.11
 
 require (
-	github.com/golang/protobuf v1.3.1
-	github.com/googleapis/gax-go/v2 v2.0.5
-	golang.org/x/exp v0.0.0-20190221220918-438050ddec5e
-	golang.org/x/lint v0.0.0-20181026193005-c67002cb31c3
-	golang.org/x/tools v0.0.0-20190114222345-bf090417da8b
-	google.golang.org/grpc v1.19.0
-	honnef.co/go/tools v0.0.0-20190102054323-c2f93a96b099
+	github.com/golang/protobuf v1.5.2
+	github.com/googleapis/gax-go/v2 v2.7.0
+	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6
+	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
+	golang.org/x/tools v0.3.0
+	google.golang.org/grpc v1.53.0
+	honnef.co/go/tools v0.0.1-2020.1.4
 )
